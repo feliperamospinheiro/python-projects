@@ -68,10 +68,3 @@ plt.show()
 # 2.Diferença entre as regiões.
 #   2.1 As regiões de SP Capital), Grande SP e Litoral apresentam as maiores concentrações de NO₂ ao longo do dia, o que pode ser explicado pela maior densidade populacional, tráfego intenso e atividades industriais.
 #   2.2 As regiões do Vale do Paraíba e Interior apresentam as menores concentrações de NO₂ ao longo do dia, o que pode ser explicado pela menor densidade populacional e menor atividade industrial.
-
-# Anotações:
-#    'Zona Oeste': ['Cerqueira César', 'Ibirapuera', 'Marg.Tietê-Pte Remédios', 'Parque D.Pedro II', 'Rio Claro-Jd.Guanabara'], 
-#    'Zona Norte': ['N.Senhora do Ó', 'Santana'], 
-#    'Zona Leste': ['Itaim Paulista', 'Itaquera', 'Mooca'], 
-#    'Zona Sul': ['Capão Redondo', 'Congonhas', 'Grajaú-Parelheiros', 'Interlagos', 'Santo Amaro']
-
